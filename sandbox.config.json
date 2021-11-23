@@ -1,0 +1,7 @@
+{
+  "template": "remix",
+  "container": {
+    "port": 3000,
+    "node": "14"
+  }
+}
