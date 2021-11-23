@@ -22,5 +22,6 @@
   "engines": {
     "node": ">=14"
   },
-  "sideEffects": false
+  "sideEffects": false,
+  "main": "app/routes/index.jsx"
 }
